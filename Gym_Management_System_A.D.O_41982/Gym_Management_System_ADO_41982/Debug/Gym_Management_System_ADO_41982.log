@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\daniel\proiecte visual studio\gym_management_system_ado_41982\gym_management_system_ado_41982\source.cpp(104): warning C4715: 'newCustomer': not all control paths return a value
+d:\daniel\proiecte visual studio\gym_management_system_ado_41982\gym_management_system_ado_41982\source.cpp(380): warning C4715: 'deleteCustomer': not all control paths return a value
+  Gym_Management_System_ADO_41982.vcxproj -> D:\Daniel\Proiecte Visual Studio\Gym_Management_System_ADO_41982\Debug\Gym_Management_System_ADO_41982.exe
+  Gym_Management_System_ADO_41982.vcxproj -> D:\Daniel\Proiecte Visual Studio\Gym_Management_System_ADO_41982\Debug\Gym_Management_System_ADO_41982.pdb (Full PDB)
